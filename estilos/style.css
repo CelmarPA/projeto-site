@@ -30,6 +30,11 @@ img.lado {
     float: right;
 }
 
+p {
+    text-align: justify;
+    width: 440px;
+}
+
 a {
     text-decoration: none;
     font-weight: bold;
